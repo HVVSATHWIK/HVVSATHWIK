@@ -13,7 +13,7 @@
 
 ## 🚀 Projects
 ### [Weather Website](https://github.com/HVVSATHWIK/WeatherWebsite)
-![Weather Website Screenshot](![Weather](https://github.com/user-attachments/assets/9a474ea7-7c30-4b55-b147-e667bc93f898))
+![Weather Website Screenshot](https://github.com/HVVSATHWIK/HVVSATHWIK/blob/main/Weather.png?raw=true)
 Real-time weather information on a 3D Earth globe.
 - 🌍 Interactive 3D globe
 - 📡 Real-time weather data
