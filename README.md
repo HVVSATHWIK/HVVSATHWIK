@@ -1,5 +1,9 @@
 # Hi, I'm Veer 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=HVVSATHWIK)
+![Followers](https://img.shields.io/github/followers/HVVSATHWIK?label=Followers)
+![Stars](https://img.shields.io/github/stars/HVVSATHWIK?label=Stars)
+
 ## About Me
 - 🎓 First-year AI undergraduate at Amrita Vishwa Vidhyapeetham.
 - 🌱 Passionate about Artificial Intelligence and Machine Learning.
@@ -9,12 +13,14 @@
 
 ## 🚀 Projects
 ### [Weather Website](https://github.com/HVVSATHWIK/WeatherWebsite)
+![Weather Website Screenshot](https://raw.githubusercontent.com/HVVSATHWIK/WeatherWebsite/main/screenshot.png)
 Real-time weather information on a 3D Earth globe.
 - 🌍 Interactive 3D globe
 - 📡 Real-time weather data
 - 📱 Responsive design
 
 ### [Litas](https://github.com/HVVSATHWIK/Litas)
+![Litas Screenshot](https://raw.githubusercontent.com/HVVSATHWIK/Litas/main/screenshot.png)
 Connect, share, and discover in a secure, vibrant social community.
 - 🔒 Secure messaging
 - 💬 Community forums
