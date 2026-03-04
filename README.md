@@ -130,7 +130,7 @@ hobbies:
 <img src="https://github-readme-stats.vercel.app/api?username=HVVSATHWIK&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true" width="49%" alt="GitHub Stats" />
 &nbsp;
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HVVSATHWIK&theme=react&background=0d1117&border=00d4ff&stroke=00d4ff&ring=7b2ff7&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=7b2ff7&dates=555555" width="49%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=HVVSATHWIK&theme=react&background=0d1117&border=00d4ff&stroke=00d4ff&ring=7b2ff7&fire=ff6b35&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=7b2ff7&dates=555555" width="49%" alt="Streak Stats" />
 
 <br/><br/>
 
@@ -194,8 +194,13 @@ hobbies:
 
 ## 🐍 Contribution Snake
 
+<!-- Note: This requires the Snake Game GitHub Action workflow (.github/workflows/snake.yml) to generate the SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 <!-- Animated Divider -->
