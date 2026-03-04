@@ -51,7 +51,7 @@ focus_areas:
 </td>
 <td width="45%">
 
-<img src="https://github.com/HVVSATHWIK/HVVSATHWIK/blob/main/Weather.png?raw=true" width="100%" style="border-radius: 12px;"/>
+<img src="https://github.com/HVVSATHWIK/HVVSATHWIK/blob/main/Weather.png?raw=true" width="100%"/>
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ focus_areas:
 *Interactive 3D globe with real-time weather data, health tips, and stunning space visuals*
 
 <a href="https://github.com/HVVSATHWIK/Weathergit">
-<img src="https://github.com/user-attachments/assets/213cb496-7244-4257-94bb-f055499b37a8" width="700" style="border-radius: 12px;" alt="WeatherIV Screenshot"/>
+<img src="https://github.com/user-attachments/assets/213cb496-7244-4257-94bb-f055499b37a8" width="700" alt="WeatherIV Screenshot"/>
 </a>
 
 <br/>
