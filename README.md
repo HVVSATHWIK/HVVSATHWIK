@@ -2,21 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Hey%20There!%20I'm%20Veer%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Systems%20Builder%20|%20Full-Stack%20Developer%20|%20Accessibility%20Focused&descSize=18&descAlignY=55&descColor=cccccc" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Third-Year+AI+Undergrad+🎓;Building+Real-World+AI+Systems+🤖;Accessibility+%7C+Healthcare+%7C+Enterprise+AI;Full-Stack+Developer+💻;Exploring+Multimodal+AI+%26+Intelligent+Agents" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Third-Year+AI+Undergrad;Building+Real-World+AI+Systems;Accessibility+%7C+Healthcare+%7C+Enterprise+AI;Full-Stack+Developer;Exploring+Multimodal+AI+%26+Intelligent+Agents"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=HVVSATHWIK&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=HVVSATHWIK&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/HVVSATHWIK?style=for-the-badge&color=7b2ff7&labelColor=0d1117&label=Followers" />
+<img src="https://img.shields.io/github/followers/HVVSATHWIK?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/HVVSATHWIK?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Stars" />
+<img src="https://img.shields.io/github/stars/HVVSATHWIK?style=for-the-badge"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # About Me
 
@@ -41,7 +39,7 @@ focus_areas:
 
 current_projects:
   - Global CareNest (AI healthcare accessibility platform)
-  - InvenAI (AI-driven EV inventory intelligence system)
+  - InvenAI (AI-powered EV inventory intelligence)
   - Litas Dark (PDF dark mode platform used by 100+ users)
 
 research_interests:
@@ -57,35 +55,35 @@ research_interests:
 
 • Interested in **AI for healthcare and accessibility**
 
-• Portfolio  
+Portfolio  
 https://myportfolio-six-puce.vercel.app/
 
-• Email  
+Email  
 hvvsathwik27@gmail.com
 
-• Fun fact  
-I like building ambitious systems first and figuring out the impossible parts later.
+Fun fact  
+I build ambitious systems first and figure out the impossible parts later.
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # AI & Research Focus
 
-I am interested in designing **AI systems that create real world impact** especially in domains such as accessibility and healthcare.
+I am interested in building **AI systems that create real world impact**, especially in accessibility and healthcare.
 
 Current exploration areas:
 
 • Multimodal AI systems  
 • Generative models including GANs  
-• AI driven healthcare tools  
+• AI-driven healthcare tools  
 • Autonomous AI agents  
-• Human AI communication systems  
-• Enterprise intelligence platforms
+• Human-AI communication systems  
+• Enterprise intelligence platforms  
 
-My long term goal is to build **AI systems that are not only intelligent but socially meaningful.**
+My goal is to build **AI systems that are not only intelligent but socially meaningful.**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # Tech Stack
 
@@ -105,43 +103,43 @@ My long term goal is to build **AI systems that are not only intelligent but soc
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/HVVSATHWIK/Litas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HVVSATHWIK&repo=Litas&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HVVSATHWIK&repo=Litas&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/HVVSATHWIK/WeatherWebsite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HVVSATHWIK&repo=WeatherWebsite&theme=react&bg_color=0d1117&border_color=7b2ff7&icon_color=7b2ff7&title_color=7b2ff7&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HVVSATHWIK&repo=WeatherWebsite&theme=tokyonight"/>
 </a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HVVSATHWIK&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HVVSATHWIK&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
 
-<img src="https://streak-stats.demolab.com/?user=HVVSATHWIK&theme=react&background=0d1117&border=00d4ff&stroke=00d4ff&ring=7b2ff7" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVVSATHWIK&layout=donut-vertical&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9" width="40%"/>
+<img src="https://streak-stats.demolab.com?user=HVVSATHWIK&theme=tokyonight" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HVVSATHWIK&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HVVSATHWIK&layout=compact&theme=tokyonight" width="40%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HVVSATHWIK&theme=tokyo-night"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # Connect With Me
 
@@ -169,4 +167,6 @@ My long term goal is to build **AI systems that are not only intelligent but soc
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer" width="100%" />
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer"/>
