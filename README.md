@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=230&section=header&text=Hey%20There!%20I'm%20Veer%20👋&fontSize=44&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=AI%20Systems%20Builder%20•%20Full-Stack%20Developer%20•%20Accessibility%20Advocate&descSize=17&descAlignY=54&descColor=cccccc" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+Real-World+AI+Systems+%F0%9F%A7%A0;Multimodal+AI+%7C+Healthcare+%7C+Accessibility+%F0%9F%8C%8D;Full-Stack+Developer+%26+AI+Researcher+%F0%9F%94%AC"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+Real-World+AI+Systems+%E2%9A%A1;Multimodal+AI+%7C+Healthcare+%7C+Accessibility+%F0%9F%8C%8D;Full-Stack+Developer+%26+AI+Researcher+%F0%9F%94%AC"/>
 
 <br/>
 
@@ -59,7 +59,7 @@ focus_areas:
 
 🔭 &nbsp;Building **AI systems that solve real-world problems** in healthcare & accessibility
 
-🧠 &nbsp;Exploring **Multimodal AI, Generative AI, and Intelligent Agents**
+🔮 &nbsp;Exploring **Multimodal AI, Generative AI, and Intelligent Agents**
 
 🏥 &nbsp;Passionate about **AI for healthcare, accessibility, and social impact**
 
@@ -71,7 +71,7 @@ focus_areas:
 
 <div align="center">
 
-| 🧠 Multimodal AI | 🧬 Medical Imaging GANs | 🏥 Healthcare AI |
+| 🔮 Multimodal AI | 🧬 Medical Imaging GANs | 🏥 Healthcare AI |
 |:---:|:---:|:---:|
 | 🤖 Autonomous Agents | 🌍 Accessibility Tech | 🏢 Enterprise AI |
 | 🔬 Generative Models | 🗣️ Human-AI Interaction | 📊 Decision Systems |
@@ -212,11 +212,57 @@ focus_areas:
 
 <br/>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="28"/> &nbsp;Playground
+
+<div align="center">
+
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=HVVSATHWIK&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=6"/>
+
+<br/>
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<details>
+<summary>🔮 <b>Click here if you dare... a secret awaits!</b></summary>
+<br/>
+
+```
+  ╔══════════════════════════════════════════════╗
+  ║                                              ║
+  ║   🎉  YOU FOUND THE SECRET!  🎉             ║
+  ║                                              ║
+  ║   Here's a cookie for your curiosity: 🍪    ║
+  ║                                              ║
+  ║   "The only way to do great work             ║
+  ║    is to love what you do."                  ║
+  ║                     — Steve Jobs             ║
+  ║                                              ║
+  ║   ⭐ Star a repo if you liked my work!      ║
+  ║                                              ║
+  ╚══════════════════════════════════════════════╝
+```
+
+</details>
+
+</div>
+
+<br/>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HVVSATHWIK&show_icons=true&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HVVSATHWIK&show_icons=true&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&include_all_commits=true" width="48%"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=HVVSATHWIK&theme=react&background=0d1117&border=1a1b27&ring=00d4ff&fire=7b2ff7&currStreakLabel=00d4ff" width="48%"/>
 
@@ -227,14 +273,6 @@ focus_areas:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HVVSATHWIK&theme=react-dark&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/HVVSATHWIK/HVVSATHWIK/output/github-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
